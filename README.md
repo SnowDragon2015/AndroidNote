@@ -19,8 +19,8 @@
 ## [自定义View](https://github.com/GcsSloop/AndroidNote/tree/master/CustomView/README.md)
 
 * 基础篇
-    * [安卓自定义View基础 - 坐标系](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B01%5DCoordinateSystem.md)
-    * [安卓自定义View基础 - 角度弧度](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B02%5DAngleAndRadian.md)
+    * [安卓自定义View基础 - 坐标系](https://github.com/SnowDragon2015/AndroidNote/blob/master/CustomView/Base/%5B01%5DCoordinateSystem.md)
+    * [安卓自定义View基础 - 角度弧度](https://github.com/SnowDragon2015/AndroidNote/blob/master/CustomView/Base/%5B02%5DAngleAndRadian.md)
     * [安卓自定义View基础 - 颜色](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B03%5DColor.md)
 * 进阶篇    
     * [安卓自定义View进阶 - 分类和流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B01%5DCustomViewProcess.md)
